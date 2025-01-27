@@ -1,4 +1,4 @@
-# Erika Nova
+# 👩🏻‍💻 Erika Nova
 
 **`Projetista`**
 
@@ -76,7 +76,6 @@ Me chamo Erika Nova, tenho 22 anos e sou de São Paulo. Estou cursando Automaç�
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-bn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 </div>
-
 
 
 
