@@ -73,7 +73,7 @@ Me chamo Erika Nova, tenho 22 anos e sou de São Paulo. Estou cursando Automaç�
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="170" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-bn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
