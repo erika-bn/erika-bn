@@ -2,7 +2,7 @@
 
 **`Projetista`**
 
-Me chamo Erika Nova, tenho 22 anos e sou de São Paulo. Estou cursando Automação Industrial na FATEC. Sou apaixonada por tecnologia e programação. Busco crescer na área de automação, aplicando o que aprendo em projetos práticos. 🚀
+Olá! Sou Erika Nova, 22 anos, de São Paulo. Estou cursando Automação Industrial na FATEC e Análise e Desenvolvimento de Sistemas (ADS) na FIAP. Sou apaixonada por tecnologia e programação, e busco aplicar meus conhecimentos em projetos práticos para crescer nas áreas de automação e desenvolvimento de software. 🚀
 
 ###
 
